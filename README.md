@@ -6,4 +6,4 @@ This game a slingshot mechanism that i implemented and every time you touch the 
 
 ![Alt text](Screenshot_2021-06-23-04-17-09-481_com.AAA.FlyingbALL2.png?raw=true "Mainmenu")
 ![Alt text](Screenshot_2021-06-23-04-17-51-469_com.AAA.FlyingbALL2.png?raw=true "Gameplay1")
-![Alt text](Screenshot_2021-06-23-04-17-09-481_com.AAA.FlyingbALL2.png?raw=true "Gameplay2")
+![Alt text](Screenshot_2021-06-23-04-18-43-342_com.AAA.FlyingbALL2.png?raw=true "Gameplay2")
